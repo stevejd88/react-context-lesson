@@ -1,5 +1,5 @@
 {
-  "name": "crwn-clothing",
+  "name": "y",
   "version": "0.1.0",
   "proxy": "http://localhost:5000",
   "private": true,
@@ -42,5 +42,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "We are going to replace our local state management from redux to the new context API. This repository is our application before we introduced sagas to handle our asynchronous code, which is a good starting point to make the appropriate changes!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevejd88/react-context-lesson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevejd88/react-context-lesson/issues"
+  },
+  "homepage": "https://github.com/stevejd88/react-context-lesson#readme"
 }
